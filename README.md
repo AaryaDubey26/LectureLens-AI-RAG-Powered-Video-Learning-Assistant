@@ -1,4 +1,4 @@
-# EduCore — Intelligent Video Lecture Assistant
+# LectureLens — AI-RAG-Powered-Video-Learning-Assistant
 
 An end-to-end Retrieval-Augmented Generation (RAG) Project designed to transform educational video content into a searchable, interactive AI assistant. This tool allows users to ask questions about course material and receive precise answers with timestamps and video references.
 
