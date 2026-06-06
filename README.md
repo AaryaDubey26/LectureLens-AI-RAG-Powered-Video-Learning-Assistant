@@ -51,8 +51,7 @@ An end-to-end Retrieval-Augmented Generation (RAG) Project designed to transform
 
 2. Clone & enter the project
    ```bash
-   git clone https://github.com/swapnilgour18/notesage.git
-   cd notesage
+   git clone https://github.com/AaryaDubey26/LectureLens-AI-RAG-Powered-Video-Learning-Assistant.git
    ```
 
 3. Create a virtual environment with uv
